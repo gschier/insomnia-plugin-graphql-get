@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-graphql-get",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Gregory Schier <greg.schier@konghq.com>",
   "description": "Insomnia plugin to transform GraphQL POST queries to GET",
   "license": "MIT",

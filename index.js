@@ -1,8 +1,6 @@
 module.exports.requestHooks = [
   context => {
-    const contentType = context.request.getHeader('Content-Type');
     const bodyText = context.request.getBodyText();
-    const method = context.request.getMethod();
 
     if (!context.request.hasParameter('__GET_GRAPHQL__')) {
       return;
