@@ -2,7 +2,7 @@
 
 [![Npm Version](https://img.shields.io/npm/v/insomnia-plugin-graphql-get.svg)](https://www.npmjs.com/package/insomnia-plugin-graphql-get)
 
-This is a plugin for [Insomnia](https://insomnia.rest) that optionally tranforms GraphQL `POST`
+This is a plugin for [Insomnia](https://insomnia.rest) that optionally transforms GraphQL `POST`
 requests into `GET` requests (something Insomnia does not support).
 
 ## Installation
